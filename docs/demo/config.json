@@ -1,0 +1,16 @@
+{
+  "pies": [
+    {
+      "id": "1",
+      "pie": {
+        "name": "corespring-audio-ng15",
+        "version": "1.0.0"
+      },
+      "fileName" : "",
+      "pauseButtonLabel" : "Stop",
+      "playButtonLabel" : "Listen",
+      "title": "Audio",
+      "ui": "fullControls"
+    }
+  ]
+}
