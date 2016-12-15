@@ -1,11 +1,14 @@
 {
-  "pies": [
+  "langs": [
+    "en-US"
+  ],
+  "elements": {
+    "corespring-audio-ng15": "../.."
+  },
+  "models": [
     {
       "id": "1",
-      "pie": {
-        "name": "corespring-audio-ng15",
-        "version": "1.0.0"
-      },
+      "element": "corespring-audio-ng15",
       "fileName" : "",
       "pauseButtonLabel" : "Stop",
       "playButtonLabel" : "Listen",
